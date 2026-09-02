@@ -1,3 +1,15 @@
+"""
+Model provenance
+----------------
+This reactor model is based on code developed during a summer student
+project at the University of Oslo by Elise Harila Christensen, Ella Hedegart Flaata,
+Baltasar Johannes Hemmerle, and Hannah Westgaard, supervised by
+Ole Reistad. The original code was shared with Herman Martin Holum by
+Baltasar Johannes Hemmerle.
+
+This version was subsequently adapted and extended for this master's thesis. See the repository README for further details
+and references.
+"""
 ###########################################################################################################################################################
 ###########################################################################################################################################################
 ############################################# File for Generating Materials, Geometry, and Settings xml Files #############################################
